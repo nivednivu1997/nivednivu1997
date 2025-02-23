@@ -1,6 +1,14 @@
 ## Hi there 👋
 
-I am **Nived Krishnan**, a robotics enthusiast passionate about **developing, testing, and deploying Autonomous mobile robots**.  
+I am **Nived Krishnan**,a robotics software engineer driven by a deep passion for creating intelligent autonomous robotic systems. My enthusiasm for robotics and automation fuels my commitment to developing, testing, and deploying Autonomous Mobile Robots (AMRs) that enhance efficiency and transform industries.
+
+I specialize in robotics software development, localization, path planning, and navigation, leveraging ROS 2, C++ and Python to build cutting-edge robotic solutions. 
+
+My mission is to push the boundaries of robotic intelligence by designing real-time algorithms, refining navigation and control strategies, and deploying scalable robotic systems in human-centric environments. I am always eager to explore new advancements in autonomous systems and collaborate on innovative projects that shape the future of robotics.
+
+Please feel free to connect and network! 🚀
+
+  
 
 ### 🚀 **My Expertise**  
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
