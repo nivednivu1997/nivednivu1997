@@ -11,8 +11,12 @@ Please feel free to connect and network! 🚀
   
 
 ### 🚀 **My Expertise**  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
+
+![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat&logo=ros&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
+![Gazebo](https://img.shields.io/badge/Gazebo-9DAFB0?style=flat&logo=Gazebo&logoColor=black)
+![RViz 2](https://img.shields.io/badge/RViz%202-22314E?style=flat&logo=ros&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -20,7 +24,7 @@ Please feel free to connect and network! 🚀
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-9DAFB0?style=flat&logo=Gazebo&logoColor=black)  
+
 
 ### 📊 **My GitHub Stats**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nivednivu1997&show_icons=true&theme=radical)  
